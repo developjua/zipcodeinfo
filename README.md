@@ -10,8 +10,6 @@ A web application for retrieving location information based on Indian ZIP codes.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -39,11 +37,14 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
    git clone https://github.com/developjua/zipcodeinfo.git
 
 2. Navigate to the project directory:
+   ```bash
    cd zipcodeinfo
 
 3. install the required packages:
+   ```bash
    npm install
 
 ### Usage
 To start a Development Server
+```bash
 npm run dev
